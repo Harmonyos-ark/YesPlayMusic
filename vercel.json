@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:match*",
+      "destination": "baidu-play-music-66pztub09-harmonyos-ark.vercel.app/:match*"
+    }
+  ]
+}
