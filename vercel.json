@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:match*",
-      "destination": "https://baidu-play-music-re3vqfzo0-harmonyos-ark.vercel.app/:match*"
+      "destination": "https://yes-play-music-psi-ten.vercel.app/:match*"
     }
   ]
 }
